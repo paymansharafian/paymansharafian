@@ -2,7 +2,7 @@ Hi there, I'm Payman Sharafianardakani 👋
 <a href="https://www.linkedin.com/in/payman-sharafianardakani-2996a6237/">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>
-<a href="https://paymansharafian.wixsite.com/website">
+<a href="https://paymansharafian.github.io/">
 <img src="https://img.shields.io/badge/CV-252525?style=for-the-badge&logo=About.me&logoColor=white" alt="CV">
 </a>
 <a href="https://paymansharafian.github.io/">
